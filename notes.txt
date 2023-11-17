@@ -1,0 +1,6 @@
+TYPESCRIPT
+FC means funtional component, defining a functional component like
+`React.FC`
+
+REACT HOOKS
+useCallback, prevents rerender unless props change
